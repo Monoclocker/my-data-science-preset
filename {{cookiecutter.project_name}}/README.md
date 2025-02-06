@@ -22,3 +22,13 @@
 - Live Server - веб-сервер для отображения HTML-файлов
 - WSL - подсистема Linux для Windows 
 - SSH - подключение к удалённому хосту
+
+Шаблон устаналивается с помощью cookiecutter
+
+```
+pip install cookiecutter
+```
+
+```
+cookiecutter https://github.com/Monoclocker/my-data-science-preset.git
+```
