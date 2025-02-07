@@ -4,3 +4,6 @@
 
 def addNumbers(a: int, b:int):
     return a+b
+
+def hello():
+    print("Hello world")
