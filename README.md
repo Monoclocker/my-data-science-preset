@@ -39,5 +39,5 @@ pip install cookiecutter
 ```
 
 ```
-cookiecutter https://github.com/Monoclocker/my-data-science-preset.git](https://github.com/Monoclocker/my-data-science-template.git
+cookiecutter https://github.com/Monoclocker/my-data-science-template.git
 ```
