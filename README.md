@@ -20,7 +20,7 @@
 
 - Data wrangler - для удобной работы с таблицами данных
 - Python, Pylance - поддержка языка и линтер
-- Docker - комфортная работы с контейнерами
+- Docker - комфортная работа с контейнерами
 - Jupyter - поддержка Jupyter Notebooks
 - Live Server - веб-сервер для отображения HTML-файлов
 - WSL - подсистема Linux для Windows 
